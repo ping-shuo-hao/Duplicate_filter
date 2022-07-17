@@ -15,6 +15,14 @@ image name: A_2.jpg  trajectory:  [(236, 262), (236, 262), (236, 262), (236, 262
 
 image name: A_3.jpg  trajectory:  [(398, 277), (400, 277), (400, 276), (401, 276), (396, 276), (394, 277), (393, 276), (392, 276), (393, 276), (392, 276), (393, 276), (400, 277), (403, 276), (404, 276), (404, 276), (404, 276), (405, 276), (404, 276), (404, 276), (404, 276)] Appearance:  106-125 label: truck
 
+![alt text](https://github.com/ping-shuo-hao/Duplicate_filter/blob/main/images/A_1.jpg)
+![alt text](https://github.com/ping-shuo-hao/Duplicate_filter/blob/main/images/A_2.jpg)
+![alt text](https://github.com/ping-shuo-hao/Duplicate_filter/blob/main/images/A_3.jpg)
+
+<pre>
+    A_1.jpg                   A_2.jpg                       A_3.jpg
+</pre>
+
 ## Required dependencies:
 
 pip install textdistance
